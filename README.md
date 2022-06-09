@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaxcsharp
-- 👀 I’m interested in coding idle games
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in coding games
+- 🌱 I’m currently learning Java
+- 💞️ I’m not looking to collaborate 
 - 📫 How to reach me (dont)
